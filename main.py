@@ -8,7 +8,7 @@ from tkinter import filedialog
 JSON_FILE_PATH = "url_list.json"
 OUTPUT_FOLDER_PATH = "audio"
 THREAD_COUNT = 5
-AUDIO = False
+AUDIO = True
 
 def get_urls(filename:str):
     with open(filename, 'r') as f:
