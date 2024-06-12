@@ -16,4 +16,8 @@ A simple youtube mp3 downloader, coded in python and using pytube for the downlo
 
 - Will add the ability have the option to download videos or audio, it's being a hasstle right now and will try to sort it, for the moment you can change line 11 on main.py to `AUDIO = False`
 
-## Thanks to [pytube](https://github.com/pytube) for making such an easy to use package
+## Disclaimer
+
+This is just a small project using open-source software, I discorage the use of this software for copyright infridgement and I am not responsibily for any illegal use of this program
+
+#### Thanks to [pytube](https://github.com/pytube) for making such an easy to use package
